@@ -41,7 +41,7 @@ export default function Page() {
           style={{
             padding: "12px",
             cursor: "pointer",
-            backgroundColor: "#AD6CAA",
+            backgroundColor: "##e6cc00",
             borderRadius: "4px",
             border: "none",
             color: "white",
